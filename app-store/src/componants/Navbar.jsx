@@ -1,13 +1,14 @@
 import React from "react";
 import navimg from '../assets/logo.png';
 import gitimg from '../assets/github.png'; 
+import { Link, NavLink } from "react-router";
 
 const Navbar = () =>{
 
     const links = <>
-        <li>Home</li>
-        <li className="ml-8">Apps</li>
-        <li className="ml-8">Installation</li>
+        <li ><NavLink to='/'>Home</NavLink></li>
+        <li className="ml-8"><NavLink to = '/Apps'>Apps</NavLink></li>
+        <li className="ml-8"><NavLink to='/installation'>Installation</NavLink></li>
     </>
     return(
         <>
@@ -26,7 +27,7 @@ const Navbar = () =>{
                     </ul>
                     </div>
                     <img className="w-[40px] h-[40px] hidden sm:block" src={navimg} alt="" />
-                    <a className="btn btn-ghost text-xl">HERO.IO</a>
+                    <Link to='/' className="ml-1.5 text-xl">HERO.IO</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">

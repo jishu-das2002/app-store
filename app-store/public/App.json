@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://example.com/images/app1.png",
+    "title": "Super Chat",
+    "companyName": "ChatCorp",
+    "id": 1,
+    "description": "A fast and secure messaging app.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app2.png",
+    "title": "FitTrack",
+    "companyName": "HealthPlus",
+    "id": 2,
+    "description": "Track your workouts and stay healthy.",
+    "size": 60,
+    "reviews": 800,
+    "ratingAvg": 4.2,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app3.png",
+    "title": "Quick Notes",
+    "companyName": "NoteMakers",
+    "id": 3,
+    "description": "Take notes quickly and organize them easily.",
+    "size": 30,
+    "reviews": 450,
+    "ratingAvg": 4.0,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 195 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app4.png",
+    "title": "PhotoMaster",
+    "companyName": "PixelSoft",
+    "id": 4,
+    "description": "Edit and enhance your photos easily.",
+    "size": 85,
+    "reviews": 2000,
+    "ratingAvg": 4.7,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1205 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app5.png",
+    "title": "LearnLang",
+    "companyName": "EduWorld",
+    "id": 5,
+    "description": "Learn new languages quickly and effectively.",
+    "size": 120,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 460 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app6.png",
+    "title": "Budget Planner",
+    "companyName": "FinancePro",
+    "id": 6,
+    "description": "Manage your budget and expenses easily.",
+    "size": 55,
+    "reviews": 600,
+    "ratingAvg": 4.1,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 285 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app7.png",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Inc.",
+    "id": 7,
+    "description": "Plan your trips and explore the world.",
+    "size": 90,
+    "reviews": 1500,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 835 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app8.png",
+    "title": "MusicStream",
+    "companyName": "SoundWave",
+    "id": 8,
+    "description": "Stream your favorite music anytime, anywhere.",
+    "size": 110,
+    "reviews": 1800,
+    "ratingAvg": 4.4,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 975 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app9.png",
+    "title": "GameZone",
+    "companyName": "FunGames",
+    "id": 9,
+    "description": "Play exciting games and challenge your friends.",
+    "size": 200,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1190 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app10.png",
+    "title": "RecipeMaster",
+    "companyName": "CookIt",
+    "id": 10,
+    "description": "Discover and cook delicious recipes.",
+    "size": 75,
+    "reviews": 700,
+    "ratingAvg": 4.2,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app11.png",
+    "title": "Daily Yoga",
+    "companyName": "FitLife",
+    "id": 11,
+    "description": "Follow yoga routines for a healthy lifestyle.",
+    "size": 50,
+    "reviews": 850,
+    "ratingAvg": 4.3,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app12.png",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 12,
+    "description": "Get accurate weather forecasts anywhere.",
+    "size": 40,
+    "reviews": 950,
+    "ratingAvg": 4.1,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 485 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app13.png",
+    "title": "NewsToday",
+    "companyName": "MediaHub",
+    "id": 13,
+    "description": "Stay updated with latest news worldwide.",
+    "size": 60,
+    "reviews": 1300,
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app14.png",
+    "title": "ShopEasy",
+    "companyName": "EcomWorld",
+    "id": 14,
+    "description": "Shop online and get fast delivery.",
+    "size": 95,
+    "reviews": 1700,
+    "ratingAvg": 4.5,
+    "downloads": "6.5M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app15.png",
+    "title": "MindRelax",
+    "companyName": "CalmTech",
+    "id": 15,
+    "description": "Meditation and relaxation app for stress relief.",
+    "size": 65,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 475 }
+    ]
+  }
+]
