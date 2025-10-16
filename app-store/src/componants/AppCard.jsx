@@ -14,9 +14,9 @@ const AppCard = ({ app, onInstall }) => {
   };
 
   return (
-    <div className="card bg-base-100 border shadow-sm">
+    <div className="card bg-base-100 border shadow-sm w-full h-[435px]">
       <figure>
-        <img src={image} alt={companyName} />
+        <img className="w-full " src={image} alt={companyName} />
       </figure>
 
       <div className="card-body">
